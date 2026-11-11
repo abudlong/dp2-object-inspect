@@ -1,0 +1,2 @@
+# Pair notebooks/<name>.ipynb with scripts/<name>.py (percent format).
+formats = "notebooks///ipynb,scripts///py:percent"

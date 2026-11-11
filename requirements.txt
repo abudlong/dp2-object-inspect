@@ -1,0 +1,5 @@
+# Provided by the LSST Science Pipelines (rubin-env); listed for reference:
+#   lsst-daf-butler, lsst-afw, lsst-geom, numpy, pandas, matplotlib, astropy
+# Extra packages used by the notebook (install into the stack env if missing):
+plotly>=5.0
+scipy>=1.9
